@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-My repo for "The Data Scientist’s Toolbox" from COursera.
+My repo for the course "The Data Scientist’s Toolbox" from COursera.
